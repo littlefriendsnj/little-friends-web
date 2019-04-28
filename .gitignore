@@ -1,0 +1,5 @@
+
+# Hugo site generator build directory
+/public/
+
+.DS_Store
