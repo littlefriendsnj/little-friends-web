@@ -9,22 +9,20 @@ description = "Little Friends News"
 
 Check out what's happening at Little Friends! 
 
-### 2019-2020 School Year  
+### 2020-2021 School Year  
 
-There are limited openings in the Wee's class for the upcoming school year. 
-
-&nbsp;
-
-
-### Back to School
-
-Classes begin the week of September 9.  Check out the calendar page for more important dates!
+Our open house will take place on Tuesday, February 4. Bring your child along for a wonderful opportunity to meet the teachers and see the classroom. Parents can learn about the program and ask questions while kids play and complete a craft. Contact our registrar through the "Request Information" button on the home page to let us know that you'd like to attend.
 
 &nbsp;
 
 
-### "Request Information" Glitch
+### Winter Break
 
-We apologize if you used our "Request Information" form, and did not receive a response. There was a glitch, which has now been corrected. Thank you for taking the time to contact us. We are sincerely sorry for our delay in responding.
+School will be closed December 20 through January 1 for winter break. Happy Holidays!
+
+&nbsp;
+
+
+
 
 
