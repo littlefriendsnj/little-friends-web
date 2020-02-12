@@ -11,14 +11,13 @@ Check out what's happening at Little Friends!
 
 ### 2020-2021 School Year  
 
-Our open house will take place on Tuesday, February 4. Bring your child along for a wonderful opportunity to meet the teachers and see the classroom. Parents can learn about the program and ask questions while kids play and complete a craft. Contact our registrar through the "Request Information" button on the home page to let us know that you'd like to attend.
+Little Friends is now enrolling for the 2020-2021 school year. To reserve a spot for your child or to learn more about our programs, please contact our registrar, Susan Hender, by clicking the "Request Information" button on our Home page.
 
 &nbsp;
 
+### Chick Hatching Project
 
-### Winter Break
-
-School will be closed December 20 through January 1 for winter break. Happy Holidays!
+Our students will have some feathery visitors in their classroom in mid-February as we will once again participate in our chick hatching project. This is always a favorite time of year for both students and teachers!
 
 &nbsp;
 
