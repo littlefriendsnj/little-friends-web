@@ -24,8 +24,3 @@ on our Home page.
 * Pre-K (4s) Class: Monday, Wednesday, Friday 9:00-12:30
 
 &nbsp;
-
-
-
-
-

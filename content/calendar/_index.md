@@ -9,6 +9,7 @@ description = "Calendar of events for Little Friends"
 
 Check out all of the events going on at Little Friends Palmyra below. 
 
+
 |Date|Event|
 |--- |--- |
 |September 7|Parents' Meeting 7pm|
