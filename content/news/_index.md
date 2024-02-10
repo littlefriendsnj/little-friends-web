@@ -20,4 +20,11 @@ There are limited openings in the Wee's class for the upcoming school year.
 
 Classes begin the week of September 9.  Check out the calendar page for more important dates!
 
+&nbsp;
+
+
+### "Request Information" Glitch
+
+We apologize if you used our "Request Information" form, and did not receive a response. There was a glitch, which has now been corrected. Thank you for taking the time to contact us. We are sincerely sorry for our delay in responding.
+
 
