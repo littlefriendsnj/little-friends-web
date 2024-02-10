@@ -1,0 +1,84 @@
+
+<!doctype html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+  
+  <body>
+
+    {{ partial "navigation.html" . }}
+
+    <div class="container">
+
+      <!-- Introduction rows -->
+      <div class="row">
+        <div class="col-sm-5 col-md-5 banner-text">
+          At Little Friends Cooperative Nursery School, we provide for our 
+          pre-schoolers an environment where they can learn through play about 
+          themselves, others, and the world around them.
+
+          <div class="call-to-action">
+            <a href="info" class="btn btn-primary">Request information</a>
+            <a href="about" class="btn btn-outline-secondary">Learn more</a>
+          </div>
+        </div>
+        <div class="col-sm-7 col-md-7">
+          <img src="{{ "images/banner_photo.jpg" | relURL }}" class="img-fluid"/>
+        </div>
+      </div>
+      <!-- / Introduction rows -->
+
+      <!-- Our Programs rows -->
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Our Programs</h1>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <!-- Wee Friends -->
+        <div class="col-sm-4">
+          <div class="program-box wee-friends">
+            <div class="program-title">Wee Friends</div>
+            <ul>
+              <li>Must be 2 1/2 years old to start (rolling admission)</li>
+              <li>Mondays &amp; Fridays 9:30 - 11:30</li>
+              <li>Tuition: $135/month (Sep - May)</li>
+            </ul>
+          </div>
+        </div><!-- / Wee Friends -->
+
+        <!-- Three's Class -->
+        <div class="col-sm-4">
+          <div class="program-box threes-class">
+            <div class="program-title">Three's Class</div>
+            <ul>
+              <li>Must be 3 years old by Oct 1</li>
+              <li>Tues thru Thurs: 9:30 - 11:30</li>
+              <li>Tuition: $175/month (Sep - May)</li>
+            </ul>
+          </div>
+        </div><!-- / Three's Class -->
+
+        <!-- Four's Class -->
+        <div class="col-sm-4">
+          <div class="program-box fours-class">
+            <div class="program-title">Four's Class</div>
+            <ul>
+              <li>Must be 4 years old by Oct 1</li>
+              <li>Mon thru Thurs: 12:15 - 2:45</li>
+              <li>Tuition: $200/month (Sep - May)</li>
+            </ul>
+          </div>
+        </div><!-- / Four's Class -->
+
+      </div><!-- / Our Programs rows -->
+
+    </div>
+
+    {{ partial "footer.html" . }}
+
+  </body>
+
+</html>

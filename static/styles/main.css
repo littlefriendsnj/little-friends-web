@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css?family=Snowburst+One');
+
+body {
+  font-family: 'Helvetica';
+  font-size: 1.1em;
+}
+
+h1 {
+  font-family: 'Snowburst One';
+  font-size: 1.4em;
+  color: #e13338;
+}
+
+h2 {
+  font-family: 'Snowburst One';
+  font-size: 1.4em;
+  color: #24b47e;
+}
+
+/* This hides tables until Bootstrap styles are applied */
+table { 
+  display: none;
+}
+
+h3 {
+  font-size: 1.2em;
+  border-bottom: 1px solid silver;
+}
+
+.nav-top {
+  padding: 10px 10px;
+  margin: 20px 0;
+}
+
+.nav-top h1 {
+  font-size: 1.5em;
+}
+
+.banner-text {
+  font-size: 1.5em;
+}
+
+.call-to-action a {
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  text-shadow: 0 1px 3px rgba(36,180,126,.4);
+  font-size: 0.9em;
+  margin: 20px 20px 10px 0;
+}
+
+.program-box {
+  padding: 20px;
+  border-radius: 25px;
+  margin: 5px 0;
+  min-height: 220px;
+}
+
+.wee-friends {
+  border: 5px solid green;
+}
+
+.threes-class {
+  border: 5px solid red;
+}
+
+.fours-class {
+  border: 5px solid blue;
+}
+
+.program-title {
+  font-size: 1.5em;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+
+footer {
+  font-size: 0.7em;
+  text-align: center;
+  color: #8898aa;
+}
+
+footer a {
+  color: #8898aa;
+  text-decoration: underline;
+}
+
+.wrapper{
+  width:100%;
+  padding-top: 10px;
+  text-align: center;
+}
+.carousel {
+  width:100%;
+}
+.slick-slide {
+  margin:10px;
+}
+.slick-slide img {
+  width:100%;
+  border: 2px solid #fff;
+}
