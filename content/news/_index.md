@@ -11,15 +11,13 @@ Check out what's happening at Little Friends!
 
 ### 2019-2020 School Year  
 
-There are limited openings in the Wee's and 3's classes for the upcoming school year.  The 4's class is currently waitlisting.
+There are limited openings in the Wee's class for the upcoming school year. 
 
 &nbsp;
 
 
-### Picnic at Pennington Park
+### Back to School
 
-We will celebrate the end of the school year and kick off the summer with 
-a picnic at Pennington Park on May 22. Little Friends has rented the large 
-pavilion from 10am-2pm. All classes and families are welcome!
+Classes begin the week of September 9.  Check out the calendar page for more important dates!
 
 
