@@ -5,26 +5,26 @@ description = "Calendar of events for Little Friends"
   weight = 3
 +++
 
-## Calendar 2019 - 2020
+## Calendar 2022 - 2023
 
 Check out all of the events going on at Little Friends Palmyra below. 
 
 |Date|Event|
 |--- |--- |
-|September 4|Parents' Meeting 7pm|
-|September 6|Cleaning Day (PM class)|
-|September 9|Classes Begin|
-|October 14|No School (Columbus Day)|
-|November 7 - 8|No School (NJEA Conference)|
-|November 28 - 29|No School (Thanksgiving break)|
-|Dec 20 - Jan 1|No School (Winter Holidays)|
-|January 20|No School (Martin Luther King Day)|
-|February 3|Cleaning Day (AM classes) No Regular Classes|
-|February 4|No School (Open House)|
-|February 17|No School (Presidents Day)|
-|April 9 - 19|No School (Spring Holidays)|
-|June 8|Last day of school for Wee Friends|
-|June 9|Last day of school for 3s|
-|June 11|Last day of school for 4s (PreSchool Play/Graduation)|
+|September 8|Parents' Meeting 7pm|
+|September 10|Fall Cleaning Day 9:30am|
+|Week of September 13|Classes Begin|
+|October 11|No School (In-Service Day)|
+|November 4 - 5|No School (NJEA Conference)|
+|November 25 - 26|No School (Thanksgiving break)|
+|Dec 23 - Jan 2|No School (Winter Break)|
+|January 17|No School (Martin Luther King Day)|
+|January 31|Spring Cleaning Day - No Regular Classes|
+|February 1|Open House - No Regular Classes|
+|February 21|No School (Presidents Day)|
+|April 13 - 24|No School (Spring Break)|
+|May27 - 30|No School (Memorial Day)|
+|June 9|Last Day of School - 3s Class|
+|June 10|Last Day of School - 4s Class|
 
 In-Service Dates to be announced.
