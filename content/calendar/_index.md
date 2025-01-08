@@ -19,11 +19,11 @@ Check out all of the events going on at Little Friends Palmyra below.
 |November 9 - 10|No School (NJEA Conference)|
 |November 24 - 25|No School (Thanksgiving break)|
 |Dec 23 - Jan 2|No School (Winter Break)|
-|January 16|No School (Martin Luther King Day)|
-|January 29|Spring Cleaning Day - No Regular Classes|
-|January 30|Open House - No Regular Classes|
-|February 19|No School (Presidents Day)|
-|April 6 - 17|No School (Spring Break)|
-|May 24 - 27|No School (Memorial Day)|
-|June 6|Last Day of School - 3s Class|
-|June 7|Last Day of School - 4s Class|
+|January 20|No School (Martin Luther King Day)|
+|January 27|Spring Cleaning Day - No Regular Classes|
+|January 28|Open House - No Regular Classes|
+|February 17|No School (Presidents Day)|
+|April 17 - 25|No School (Spring Break)|
+|May 23 - 26|No School (Memorial Day)|
+|June 5|Last Day of School - 3s Class|
+|June 6|Last Day of School - 4s Class|
