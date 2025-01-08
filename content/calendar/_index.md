@@ -5,19 +5,19 @@ description = "Calendar of events for Little Friends"
   weight = 3
 +++
 
-## Calendar 2023 - 2024
+## Calendar 2024 - 2025
 
 Check out all of the events going on at Little Friends Palmyra below. 
 
 
 |Date|Event|
 |--- |--- |
-|September 7|Parents' Meeting 7pm|
-|September 8|Fall Cleaning Day 9:30am|
-|Week of September 12|Classes Begin|
-|October 10|No School (In-Service Day)|
-|November 9 - 10|No School (NJEA Conference)|
-|November 24 - 25|No School (Thanksgiving break)|
+|September 5|Parents' Meeting 7pm|
+|September 6|Fall Cleaning Day 9:30am|
+|Week of September 9th|Classes Begin|
+|October 14|No School (In-Service Day)|
+|November 7 - 8|No School (NJEA Conference)|
+|November 28 - 29|No School (Thanksgiving break)|
 |Dec 23 - Jan 2|No School (Winter Break)|
 |January 20|No School (Martin Luther King Day)|
 |January 27|Spring Cleaning Day - No Regular Classes|
