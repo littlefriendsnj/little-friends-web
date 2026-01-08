@@ -20,7 +20,7 @@ New for next school year.... Accepting students who are 2 1/2 by September 14th.
 
 &nbsp;
 
-### 2025-2026 Schedule
+### 2026-2027 Schedule
 
 * Nursery (2 1/2 & 3s) Class: Tuesday & Thursday 9:00-12:00
 * Pre-K (4s) Class: Monday, Wednesday, Friday 9:00-12:30
