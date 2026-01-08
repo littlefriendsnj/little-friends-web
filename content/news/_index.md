@@ -9,14 +9,14 @@ description = "Little Friends News"
 
 Check out what's happening at Little Friends! 
 
-### 2024-2025 School Year  
+### 2026-2027 School Year  
 
-Little Friends is now enrolling for the 2025-2026 school year. To reserve 
+Little Friends is now enrolling for the 2026-2027 school year. To reserve 
 a spot for your child or to learn more about our programs, please contact 
 our registrar, Susan Hender, by clicking the “Request Information” button 
 on our Home page.
 
-New for next school year.... Accepting students who are 2 1/2 by September 8th.  This will be a combined class of 2 1/2 & 3 yr old students.  
+New for next school year.... Accepting students who are 2 1/2 by September 14th.  This will be a combined class of 2 1/2 & 3 yr old students.  
 
 &nbsp;
 
